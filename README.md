@@ -1,8 +1,9 @@
 ## Hola Guys & Gals, Pranshu-Tripathi here 😃
 
 ### A Little Introduction ->
+🎓Studying at Indian Institute of Information Technology, Allahabad.
 🕸️ Android And Flutter Developer  
-👐 4 Star Coder at CodeChef 
+👐 4 Star Coder at CodeChef
 🧑‍🎓 Addicted to Exploring & Learning  
 🎵 Musicophile
   
@@ -20,12 +21,9 @@
 ### Development Tools
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/trello.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
