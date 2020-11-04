@@ -85,7 +85,7 @@
 <a href="https://www.facebook.com/pranshu.tripathi.7906/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://www.instagram.com/pr72001/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://twitter.com/Pranshu04661734" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/vishesh-mittal-9551a4199/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/pranshu-tripathi-a9431b192/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
 
 <p align="center">
