@@ -8,11 +8,11 @@
   
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=Pranshu-Tripathi&show_icons=true&theme=gotham" alt="github stats"/>
 
 <br />
 
-<a href="https://github.com/elemento24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
+<a href="https://github.com/Pranshu-Tripathi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=gotham" /></a>
 
 <br />
 <hr/>
