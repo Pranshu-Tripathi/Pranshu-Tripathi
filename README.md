@@ -1,7 +1,8 @@
 ## Hola Guys & Gals, Pranshu-Tripathi here 😃
 
 ### A Little Introduction ->
-🎓Studying at Indian Institute of Information Technology, Allahabad
+🎓Studying at Indian Institute of Information Technology, Allahabad (2019-2023)
+
 🕸️ Android And Flutter Developer  
 👐 4 Star Coder at CodeChef
 🧑‍🎓 Addicted to Exploring & Learning  
