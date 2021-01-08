@@ -3,11 +3,11 @@
 ### A Little Introduction ->
 🎓Studying at Indian Institute of Information Technology, Allahabad (2019-2023)
 
-🕸️ Android And Flutter Developer
+📱 Android And Flutter Developer
 
-👐 4 Star Coder at CodeChef
+⭐ 4 Star Coder at CodeChef (1840)
 
-🧑‍🎓 Addicted to Exploring & Learning  
+📘 Addicted to Exploring & Learning  
 
 🎵 Musicophile
   
