@@ -5,7 +5,7 @@
 
 📱 Android And Flutter Developer
 
-⭐ 4 Star Coder at CodeChef (1840)
+💻 4⭐ Coder at CodeChef (1840)
 
 📘 Addicted to Exploring & Learning  
 
