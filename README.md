@@ -7,6 +7,9 @@
 
 💻 4⭐ Coder at CodeChef (1840)
 
+
+💻 Pupil at CodeForces (1230)
+
 📘 Addicted to Exploring & Learning  
 
 🎵 Musicophile
