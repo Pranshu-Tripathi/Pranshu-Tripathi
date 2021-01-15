@@ -20,7 +20,7 @@
 
 <br />
 
-<a href="https://github.com/Pranshu-Tripathi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=gotham" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=gotham"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=gotham" /></a>
 
 <br />
 <hr/>
