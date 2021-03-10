@@ -8,7 +8,7 @@
 💻 4⭐ Coder at CodeChef (1840)
 
 
-💻 Pupil at CodeForces (1362)
+💻 Pupil at CodeForces (1388)
 
 📘 Addicted to Exploring & Learning  
 
