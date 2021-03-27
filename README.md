@@ -5,7 +5,7 @@
 
 📱 Android And Flutter Developer
 
-💻 4⭐ Coder at CodeChef (1840)
+💻 4⭐ Coder at CodeChef (1858)
 
 
 💻 Specialist at CodeForces (1582)
