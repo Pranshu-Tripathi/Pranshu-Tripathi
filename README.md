@@ -8,7 +8,7 @@
 💻 4⭐ Coder at CodeChef (1858)
 
 
-💻 Specialist at CodeForces (1582)
+💻 Expert at CodeForces (1609)
 
 📘 Addicted to Exploring & Learning  
 
