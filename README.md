@@ -1,17 +1,13 @@
-## Hola Guys & Gals, Pranshu-Tripathi here 😃
+## Hello Folks😃
 
 ### A Little Introduction ->
-🎓Studying at Indian Institute of Information Technology, Allahabad (2019-2023)
+Currently, I am working at Schrodinger Inc. as a Software developer. I am working with modern C++ and QT frameworks in this work profile. I have a keen interest in developing
+my understanding of how different architectures in software industries are being used and scaled. I am also curious about the functioning of various ML/AI models and in free time I try developing them on my own.
 
-📱 Android And Flutter Developer
-
+🎓Studied at Indian Institute of Information Technology, Allahabad (2019-2023) (9.16 GPA)
 💻 4⭐ Coder at CodeChef (1858)
-
-
 💻 Expert at CodeForces (1609)
-
-📘 Addicted to Exploring & Learning  
-
+📘 Addicted to Exploring & Learning
 🎵 Musicophile
   
 <br />
@@ -32,6 +28,9 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qt.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/boost.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
