@@ -5,9 +5,13 @@ Currently, I am working at Schrodinger Inc. as a Software developer. I am workin
 my understanding of how different architectures in software industries are being used and scaled. I am also curious about the functioning of various ML/AI models and in free time I try developing them on my own.
 
 🎓Studied at Indian Institute of Information Technology, Allahabad (2019-2023) (9.16 GPA)
+
 💻 4⭐ Coder at CodeChef (1858)
+
 💻 Expert at CodeForces (1609)
+
 📘 Addicted to Exploring & Learning
+
 🎵 Musicophile
   
 <br />
