@@ -18,11 +18,11 @@ my understanding of how different architectures in software industries are being
   
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Pranshu-Tripathi&show_icons=true&theme=gotham" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=Pranshu-Tripathi&show_icons=true&theme=dark" alt="github stats"/>
 
 <br />
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=gotham"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=gotham" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=dark" /></a>
 
 <br />
 <hr/>
