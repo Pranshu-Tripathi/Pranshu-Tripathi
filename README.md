@@ -1,18 +1,20 @@
-## Hello Folks😃
-
-### A Little Introduction ->
+### A Little Introduction
 Currently, I am working at Schrodinger Inc. as a Software developer. I am working with modern C++ and QT frameworks in this work profile. I have a keen interest in developing
 my understanding of how different architectures in software industries are being used and scaled. I am also curious about the functioning of various ML/AI models and in free time I try developing them on my own.
 
 🎓Studied at Indian Institute of Information Technology, Allahabad (2019-2023) (9.16 GPA)
-
-💻 4⭐ Coder at CodeChef (1858)
 
 💻 Expert at CodeForces (1609)
 
 📘 Addicted to Exploring & Learning
 
 🎵 Musicophile
+
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranshu-Tripathi&theme=dark)
+
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranshu-Tripathi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f97316&area=true&hide_border=true)
   
 <br />
 
@@ -24,6 +26,7 @@ my understanding of how different architectures in software industries are being
 
 <br />
 <hr/>
+
 
 ### Development Tools
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
