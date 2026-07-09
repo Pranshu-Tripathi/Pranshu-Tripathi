@@ -1,6 +1,7 @@
-### A Little Introduction
-Currently, I am working at Schrodinger Inc. as a Software developer. I am working with modern C++ and QT frameworks in this work profile. I have a keen interest in developing
-my understanding of how different architectures in software industries are being used and scaled. I am also curious about the functioning of various ML/AI models and in free time I try developing them on my own.
+### Introduction
+
+I am a working professional at Schrodinger Inc. as a Software developer. I am experienced with modern C++ and QT frameworks in this work profile. I have a keen interest in developing
+my understanding of how different architectures in software industries are being used and scaled. I have led cutting edge Agentic AI systems at schrodinger anc currently building and scaling agentic system.
 
 🎓Studied at Indian Institute of Information Technology, Allahabad (2019-2023) (9.16 GPA)
 
@@ -10,22 +11,15 @@ my understanding of how different architectures in software industries are being
 
 🎵 Musicophile
 
+<hr/>
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranshu-Tripathi&theme=dark)
 
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranshu-Tripathi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f97316&area=true&hide_border=true)
   
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/?username=Pranshu-Tripathi&show_icons=true&theme=dark" alt="github stats"/>
-
-<br />
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu-Tripathi&layout=compact&theme=dark" /></a>
-
-<br />
 <hr/>
+
 
 
 ### Development Tools
