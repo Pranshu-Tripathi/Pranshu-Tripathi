@@ -3,6 +3,8 @@
 I am a working professional at Schrodinger Inc. as a Software developer. I am experienced with modern C++ and QT frameworks in this work profile. I have a keen interest in developing
 my understanding of how different architectures in software industries are being used and scaled. I have led cutting edge Agentic AI systems at schrodinger anc currently building and scaling agentic system.
 
+ [Schrodinger Github ID](https://github.com/pranshu-sdgr)
+
 🎓Studied at Indian Institute of Information Technology, Allahabad (2019-2023) (9.16 GPA)
 
 💻 Expert at CodeForces (1609)
